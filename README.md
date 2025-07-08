@@ -20,6 +20,5 @@
 ### Model Evaluation Methods Used
 
 1. Accuracy Score
-2. ROC AUC Curve
-3. Cross Validation
-4. Confusion Matrix
+2. Cross Validation
+3. Confusion Matrix
